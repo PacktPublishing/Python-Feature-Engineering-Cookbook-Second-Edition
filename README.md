@@ -52,10 +52,6 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://packt.link/UXyxc).
 
-## Errata
-
-* Page 151 (Paragraph 5, Bullet 1): **Bullet point 1 is not valid any more and the link doesn't exists.**
-
 ### Related products <Other books you may enjoy>
 * Data Cleaning and Exploration with Machine Learning [[Packt]](https://www.packtpub.com/product/data-cleaning-and-exploration-with-machine-learning/9781803241678) [[Amazon]](https://www.amazon.com/dp/1803241675)
 
