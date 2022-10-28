@@ -61,5 +61,5 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Production-Ready Applied Deep Learning [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Soledad Galli** is a data scientist, instructor, and software developer with more than 10 years of experience in world-class academic institutions and renowned businesses. She has developed and put into production machine learning models to assess insurance claims and credit risk and prevent fraud. She teaches multiple online courses on machine learning, which have enrolled 44,000+ students worldwide and consistently receive good student reviews. She is also the developer and maintainer of the open source Python library Feature-engine, which is currently downloaded 100,000+ times per month. Soledad received a Data Science Leaders Award in 2018 and was recognized as one of LinkedIn's voices in data science and analytics in 2019.
