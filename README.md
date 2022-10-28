@@ -4,7 +4,7 @@
 
 This is the code repository for [<Book name>](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
 
-**Over 70 recipes for creating, engineering, and transforming features to build machine learning models	**
+**Over 70 recipes for creating, engineering, and transforming features to build machine learning models**
 
 ## What is this book about?
 Feature engineering, the process of transforming variables and creating features, albeit time-consuming, ensures that your machine learning models perform seamlessly. This second edition of Python Feature Engineering Cookbook will take the struggle out of feature engineering by showing you how to use open source Python libraries to accelerate the process via a plethora of practical, hands-on recipes.
