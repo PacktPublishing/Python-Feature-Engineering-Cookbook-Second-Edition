@@ -47,8 +47,8 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                                                                    | OS required                        |
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
-| 1-11 		   |   	Python 3.3 or greater						                                            			  | Windows, Mac OS X, or Linux |
-|     1-11      |Jupyter Notebook   																					  |         Windows, Mac OS X, or Linux                            |
+| 1-11 		   |   	Python 3.3 or greater						                                            			  | Windows, Mac OS, or Linux |
+|     1-11      |Jupyter Notebook   																					  |         Windows, Mac OS, or Linux                            |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://packt.link/UXyxc).
 
@@ -57,9 +57,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Page 151 (Paragraph 5, Bullet 1): **Bullet point 1 is not valid any more and the link doesn't exists.**
 
 ### Related products <Other books you may enjoy>
-* Data Cleaning and Exploration with Machine Learning [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* Data Cleaning and Exploration with Machine Learning [[Packt]](https://www.packtpub.com/product/data-cleaning-and-exploration-with-machine-learning/9781803241678) [[Amazon]](https://www.amazon.com/dp/1803241675)
 
-* Production-Ready Applied Deep Learning [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* Production-Ready Applied Deep Learning [[Packt]](https://www.packtpub.com/product/production-ready-applied-deep-learning/9781803243665) [[Amazon]](https://www.amazon.com/dp/180324366X)
 
 ## Get to Know the Author
 **Soledad Galli** is a data scientist, instructor, and software developer with more than 10 years of experience in world-class academic institutions and renowned businesses. She has developed and put into production machine learning models to assess insurance claims and credit risk and prevent fraud. She teaches multiple online courses on machine learning, which have enrolled 44,000+ students worldwide and consistently receive good student reviews. She is also the developer and maintainer of the open source Python library Feature-engine, which is currently downloaded 100,000+ times per month. Soledad received a Data Science Leaders Award in 2018 and was recognized as one of LinkedIn's voices in data science and analytics in 2019.
