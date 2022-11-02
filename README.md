@@ -1,8 +1,8 @@
 # Python Feature Engineering Cookbook-Second Edition
 
-<a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="Python Feature Engineering Cookbook-Second Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/python-feature-engineering-cookbook-second-edition/9781804611302"><img src="https://static.packt-cdn.com/products/9781804611302/cover/smaller" alt="Python Feature Engineering Cookbook-Second Edition" height="256px" align="right"></a>
 
-This is the code repository for [Python Feature Engineering Cookbook-Second Edition](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Python Feature Engineering Cookbook-Second Edition](https://www.packtpub.com/product/python-feature-engineering-cookbook-second-edition/9781804611302), published by Packt.
 
 **Over 70 recipes for creating, engineering, and transforming features to build machine learning models**
 
